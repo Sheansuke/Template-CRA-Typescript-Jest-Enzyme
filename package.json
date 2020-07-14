@@ -1,0 +1,59 @@
+{
+  "name": "template-react-typescript",
+  "description": "A template that integrates: CREATE-REACT-APP TYPESCRIPT JEST ENZYME",
+  "version": "1.0.0",
+  "author": "Sheansuke",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "user": "https://github.com/Sheansuke",
+    "url": ""
+  },
+  "dependencies": {
+    "@babel/preset-typescript": "^7.10.4",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "@types/node": "^12.12.50",
+    "@types/react": "^16.9.42",
+    "@types/react-dom": "^16.9.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "react-test-renderer": "^16.13.1",
+    "typescript": "^3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.10.4",
+    "@types/enzyme": "^3.10.5",
+    "@types/enzyme-adapter-react-16": "^1.0.6",
+    "@types/jest": "^26.0.4",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "enzyme-to-json": "^3.5.0",
+    "jest": "^24.9.0",
+    "raf": "^3.4.1",
+    "ts-jest": "^26.1.1"
+  }
+}
