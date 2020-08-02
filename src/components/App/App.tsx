@@ -18,5 +18,4 @@ const App: React.FC<Props> = () => {
     </>
   );
 };
-
 export default React.memo(App);
