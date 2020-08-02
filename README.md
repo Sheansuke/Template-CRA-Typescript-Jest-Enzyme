@@ -1,6 +1,33 @@
 ## description
-A template that integrates: CREATE-REACT-APP TYPESCRIPT JEST ENZYME 
-(contain: Eslint and Prettier style guide)
+A template that integrates: 
+* CREATE-REACT-APP 
+* TYPESCRIPT 
+* JEST 
+* ENZYME 
+
+###### (contain: Eslint and Prettier style guide)
+<br />
+
+
+## extra dependencies:
+
+
+### state management
+* redux-toolkit
+* react-redux
+* redux-thunk
+
+### fetch
+* axios
+
+### styles
+* default create-react-app
+* style-components
+<br />
+<br />
+
+
+## INSTALL
 
 ### npm install
 
