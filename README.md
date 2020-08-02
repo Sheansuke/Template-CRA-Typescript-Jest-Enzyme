@@ -1,7 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## description
-A template that integrates: CREATE-REACT-APP TYPESCRIPT JEST ENZYME
+A template that integrates: CREATE-REACT-APP TYPESCRIPT JEST ENZYME 
+(contain: Eslint and Prettier style guide)
 
 ### npm install
 
